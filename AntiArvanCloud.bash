@@ -21,6 +21,8 @@ echo 'Created By Sir.Liosion'
 echo ''
 echo 'Arvan Cloud Bypasser'
 echo ''
+echo '@MOH3EN2'
+echo ''
 echo ''
 
 if [[ -f cuf-domain.tmp ]]; then
